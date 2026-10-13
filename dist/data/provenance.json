@@ -1,0 +1,306 @@
+{
+  "updatedAt": "2026-10-13T22:34:32.200Z",
+  "sources": [
+    {
+      "name": "Texas Lottery",
+      "game": "pb",
+      "url": "https://www.texaslottery.com/export/sites/lottery/Games/Powerball/Winning_Numbers/powerball.csv",
+      "sha256": "6d3210307acc3ee154b7232a3b6e630228cd4af89281b581399a4c5cd00486e6",
+      "retrievedAt": "2026-10-13T22:34:12.394Z"
+    },
+    {
+      "name": "Texas Lottery",
+      "game": "mm",
+      "url": "https://www.texaslottery.com/export/sites/lottery/Games/Mega_Millions/Winning_Numbers/megamillions.csv",
+      "sha256": "0ab51d774efc7737e3403b36d06e01b4a971053b6b0b67b398ec1e16752ea489",
+      "retrievedAt": "2026-10-13T22:34:12.514Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2006-10/",
+      "sha256": "984e01695eb9c89c968b1b6b7462b754104a7f50af045c8e400d7c61c7be6100",
+      "retrievedAt": "2026-10-13T22:34:12.838Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2006-11/",
+      "sha256": "164413dfbc8be11394c675318101d0803cf776ad6aa31a103c3939bc6f5a28cb",
+      "retrievedAt": "2026-10-13T22:34:13.088Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2006-12/",
+      "sha256": "2c09c6e8d80d2c2f07162ee7517e7409f5ed9e0c0e715020a07c739bc4f253df",
+      "retrievedAt": "2026-10-13T22:34:13.334Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-01/",
+      "sha256": "2958fc8eed9ce86e29f82d684e019a64365d7d0309d44a7a8fe030b5f491ca9d",
+      "retrievedAt": "2026-10-13T22:34:13.554Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-02/",
+      "sha256": "4d21afe9518ba115a41d470b920778f50f3c868235d73d2bd3359a8f754b8a66",
+      "retrievedAt": "2026-10-13T22:34:13.790Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-03/",
+      "sha256": "84fa808bd9f94a29029e82472691f9d913fa141d3bb47898d37fac1aa724f23e",
+      "retrievedAt": "2026-10-13T22:34:14.323Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-04/",
+      "sha256": "7cf663f3caf99c72edef968397ac1570cec01701885623e36bd37f7158f9e44d",
+      "retrievedAt": "2026-10-13T22:34:14.679Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-05/",
+      "sha256": "de6a28fb05aafd891d14cc5b70be14335bf15e8b037f74342e38f171d2f3b5bf",
+      "retrievedAt": "2026-10-13T22:34:14.923Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-06/",
+      "sha256": "ab05cdc537185a09de974b8a0737a68582e86d15fad0bc42396e5cd69acdc150",
+      "retrievedAt": "2026-10-13T22:34:15.168Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-07/",
+      "sha256": "a5e4e6098dd606f97e017aef987142d8cce1484033fe06873c7269862044dff7",
+      "retrievedAt": "2026-10-13T22:34:15.385Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-08/",
+      "sha256": "62ef8165cc1c5e279c191ed56610cee4545da66f0022cd3c62374e283d331690",
+      "retrievedAt": "2026-10-13T22:34:15.568Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-09/",
+      "sha256": "94db036fe59c4842a0518d8d77fb1f07093377fd885f9f654cb02b038057969a",
+      "retrievedAt": "2026-10-13T22:34:15.867Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-10/",
+      "sha256": "a29cb74054faf77ae2211e66f5da9f191b46d7a6f118569f466c40573a057a43",
+      "retrievedAt": "2026-10-13T22:34:16.048Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-11/",
+      "sha256": "93eb769e67c9817d2db28f955975b0f314b9b3887bb5f6013e0ebc6e1fa156ae",
+      "retrievedAt": "2026-10-13T22:34:16.226Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2007-12/",
+      "sha256": "9249ae5a6a9c47ec370e79a8a89b24043b6b0bbf4176dbded0edc28c4fff4abc",
+      "retrievedAt": "2026-10-13T22:34:16.431Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-01/",
+      "sha256": "8dac07c7a05e4ab4c858fac4c356111a7bc36f29e95f530b930848d2cbcc3e32",
+      "retrievedAt": "2026-10-13T22:34:16.650Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-02/",
+      "sha256": "8f8ebde66d8e3aacb972b7b410160f6e7f28e517a5c3e789489e10222bad9ded",
+      "retrievedAt": "2026-10-13T22:34:16.847Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-03/",
+      "sha256": "100a5d8d380074be7f538ef2d8adcbc68e5c57a377bfff359858e7a07e0fbeee",
+      "retrievedAt": "2026-10-13T22:34:17.110Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-04/",
+      "sha256": "f2af08ae375f969a7b8a8f68d6981f688935fb94e2151c867fc85f9d03696f0d",
+      "retrievedAt": "2026-10-13T22:34:17.427Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-05/",
+      "sha256": "1b359712d2d63a129e19f2b580013c87248ad12c8a0e7ce57e3c84aaf41a389d",
+      "retrievedAt": "2026-10-13T22:34:17.735Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-06/",
+      "sha256": "42aaf270ac3000aca8644d32714f607934319fe2e20420d8c5cd2d681d4c0292",
+      "retrievedAt": "2026-10-13T22:34:18.051Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-07/",
+      "sha256": "c5b70118afb7ebddb74a71b633c7a5dc24763272d14d4ff6d017b7a254fe8c94",
+      "retrievedAt": "2026-10-13T22:34:18.600Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-08/",
+      "sha256": "c4f70dd61b8c913cf219975c8909738539856fa1442959db5c3ef9f2539762f8",
+      "retrievedAt": "2026-10-13T22:34:18.827Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-09/",
+      "sha256": "e56c5faa2a36495414f973f5a0fee07ce648d99e3d73b9957964c7bd922794ef",
+      "retrievedAt": "2026-10-13T22:34:19.038Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-10/",
+      "sha256": "6e1ff3bebc28e8625cc51c613d9c04c7d1666fe2561190ab691dc00bfa026065",
+      "retrievedAt": "2026-10-13T22:34:19.220Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-11/",
+      "sha256": "b429a4dd278c813e82f12b56c7467c3dae29741a657b5e5284f466cc79465c16",
+      "retrievedAt": "2026-10-13T22:34:19.453Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2008-12/",
+      "sha256": "680a7ca08febe0f8054d0d67073973161dd75d593b6978fa1ea2ed7632061a11",
+      "retrievedAt": "2026-10-13T22:34:19.703Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-01/",
+      "sha256": "66de822dcba2bcae5390b35d8c0ef44b8af236e15ee0226e2d2831083abf19c4",
+      "retrievedAt": "2026-10-13T22:34:19.908Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-02/",
+      "sha256": "078f58fad9d83e19d64c2b2db4b353267cd1436f6ef01e059bfb56dc82a4a0f6",
+      "retrievedAt": "2026-10-13T22:34:20.141Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-03/",
+      "sha256": "21e85f6f5996563cc219809d10ae31a6f059a43b7444a6a75695c26186945198",
+      "retrievedAt": "2026-10-13T22:34:20.381Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-04/",
+      "sha256": "5e2b01e2e5be7a783ce431d9fedc5de914dfb4b7ba3e372709942c53e957c375",
+      "retrievedAt": "2026-10-13T22:34:29.150Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-05/",
+      "sha256": "70761f5eb66633e677f1bc6f1bc45370a076f7e02d1a54fb91e86738b44d354a",
+      "retrievedAt": "2026-10-13T22:34:29.323Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-06/",
+      "sha256": "20741b23029878eb0f784203591d98a080a6f35028850204b1e7f6fcd2324d2e",
+      "retrievedAt": "2026-10-13T22:34:29.536Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-07/",
+      "sha256": "d2192f55f1ae89e18a59dd1283ad6ab2ec1b9221316ad45443aec7676c581090",
+      "retrievedAt": "2026-10-13T22:34:29.978Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-08/",
+      "sha256": "542f41a5d4e96bfffa38d0beaa5849063434b4fb09755a1cf2d7b698cf7049b0",
+      "retrievedAt": "2026-10-13T22:34:30.436Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-09/",
+      "sha256": "e8b3728058c2d07ab5f10afc80d3f75947a166ca084387dd9fb10f08641d827a",
+      "retrievedAt": "2026-10-13T22:34:30.719Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-10/",
+      "sha256": "c900ef6d77d3256fc759984b51587fb305b2cdcf0fe860503ec249ebecc33745",
+      "retrievedAt": "2026-10-13T22:34:31.127Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-11/",
+      "sha256": "e2e75dc660d790c6038baaebe165fd488763fd609eb65163096ed0e51c27be73",
+      "retrievedAt": "2026-10-13T22:34:31.353Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2009-12/",
+      "sha256": "b8b132d2ed8ece8bcb1c4bf1c31d17b55b549599b6d87b60de9f7a6ad027b4bb",
+      "retrievedAt": "2026-10-13T22:34:31.663Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2010-01/",
+      "sha256": "69a66aa888d593c4461866e8f0f73aaf380b07489995e11c2aa9295efe69e790",
+      "retrievedAt": "2026-10-13T22:34:31.841Z"
+    },
+    {
+      "name": "Colorado Lottery",
+      "game": "pb",
+      "url": "https://www.coloradolottery.com/en/games/powerball/drawings/2010-02/",
+      "sha256": "10fd5db859607f6f55adad1756b50af2bc8fc81950eb61ce304c42f9f767b122",
+      "retrievedAt": "2026-10-13T22:34:32.076Z"
+    }
+  ]
+}
